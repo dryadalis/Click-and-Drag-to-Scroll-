@@ -18,7 +18,7 @@ body {
 }
 
 .items {
-    height: 800px;
+    height: 600px;
     padding: 100px;
     width: 100%;
     border: 1px solid white;
@@ -43,7 +43,7 @@ body {
 }
 .item {
     width: 200px;
-    height: calc(100% - 40px);
+    height: calc(100% - 20px);
     display: inline-flex;
     align-items: center;
     justify-content: center;
